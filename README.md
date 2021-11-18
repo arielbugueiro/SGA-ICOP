@@ -6,7 +6,7 @@ Este proyecto es un SGA (Sistema de Gestión Académica) realizado en **_Java_**
 
 El sistema permite gestionar los datos relevantes de **_alumnos_** como todos sus datos personales y de contacto, sus inscripciones a carreras junto con su modalidad de cursado, asignaturas, exámenes parciales, finales con sus respectivas calificaciones y promedios. 
 
-En cuanto a los **_docentes_// el sistema permite gestionar todos sus datos personales, de contacto y datos relacionados con las asignaturas que dictan.
+En cuanto a los **_docentes_** el sistema permite gestionar todos sus datos personales, de contacto y datos relacionados con las asignaturas que dictan.
 
 Además permite administrar los datos referentes a las distintas **_Carreras del Instituto_** con sus correspondientes Planes de Estudio, los distintos Años de Cursado y la posibilidad de manejar más de una División por Carrera y todas las Materias correspondientes.
 
